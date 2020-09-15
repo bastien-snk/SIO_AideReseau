@@ -30,5 +30,4 @@ $ git clone https://github.com/rootxls/SIO_AideReseau.git
 
 ### Documentation
 
-  - Manuel d'utilisation: https://docs.google.com/document/d/1eDQf6NY7iOiokJK9hw9RMCRK9vgtlNM5qO-A-KNYgBw/edit?usp=sharing
-  - Documentation technique: 
+  - Manuel d'utilisation - https://docs.google.com/document/d/1eDQf6NY7iOiokJK9hw9RMCRK9vgtlNM5qO-A-KNYgBw/edit?usp=sharing
