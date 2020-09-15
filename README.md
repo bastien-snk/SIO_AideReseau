@@ -16,6 +16,7 @@ Pour pouvoir éditer le programme, vous devrez disposer des ressources suivantes
 
 * [Swing] - Bibliothèque graphique de Java 📚
 * [Development Kit] - Kit de développement de Java en version 1.8 ♨️
+* [Maven] - Outil de gestion et d'automatisation de production des projets logiciels en Java 🌊
 
 ### Installation
 
