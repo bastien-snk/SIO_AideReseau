@@ -25,7 +25,7 @@ Pour installer le JAR, il suffit de cloner le repository et d'ouvrir le fichier.
 ```sh
 mkdir AideReaseau
 cd AideReseau
-$ git clone https://github.com/rootxls/SIO_AideReseau.git
+git clone https://github.com/rootxls/SIO_AideReseau.git
 ```
 
 ### Documentation
