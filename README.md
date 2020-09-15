@@ -4,7 +4,7 @@
 
 Le logiciel Aide Réseau est un logiciel développé en Java 8 qui vous permettra d'automatiser diverses manipulations en lien avec les IP et masques de sous-réseau
 
-# Nouveaux ajouts
+### Nouveaux ajouts
 
   - Détecter la classe d'une Adresse IP 🔖
   - Envoyer une requête Ping entre deux Adresses IP 🛰️
